@@ -4,7 +4,7 @@
 	$pluginData[nextpay][name] = 'درگاه نکست پی';
 	$pluginData[nextpay][uniq] = 'nextpay';
 	$pluginData[nextpay][description] = 'درگاه پرداخت  <a href="http://nextpay.ir">نکست پی‌</a>';
-	$pluginData[nextpay][author][name] = 'Freer';
+	$pluginData[nextpay][author][name] = 'nextpay.ir';
 	$pluginData[nextpay][author][url] = 'http://nextpay.ir';
 	$pluginData[nextpay][author][email] = 'info@nextpay.ir';
 	

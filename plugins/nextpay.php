@@ -5,8 +5,8 @@
 	$pluginData[nextpay][uniq] = 'nextpay';
 	$pluginData[nextpay][description] = 'درگاه پرداخت  <a href="http://nextpay.ir">نکست پی‌</a>';
 	$pluginData[nextpay][author][name] = 'Freer';
-	$pluginData[nextpay][author][url] = 'http://freer.ir';
-	$pluginData[nextpay][author][email] = 'hossin@gmail.com';
+	$pluginData[nextpay][author][url] = 'http://nextpay.ir';
+	$pluginData[nextpay][author][email] = 'info@nextpay.ir';
 	
 	//-- فیلدهای تنظیمات پلاگین
 	$pluginData[nextpay][field][config][1][title] = 'کلید مجوزدهی درگاه';
